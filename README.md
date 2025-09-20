@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+![](https://i.pinimg.com/1200x/74/55/c0/7455c0389cfead22296b627af770d029.jpg)
+
 I'm a coder passionate about **AI**, **Machine Learning**, **Neural Networks**, **NLP**, **Physics**, and **cars**. Just starting out, I'm building an ML project with exciting features on the way. Stay tuned! 🌟<br><br>AI & LLMs? Glorified pattern-guessers that stumble on nuance—fun to tinker with, but far from perfect.
 
 
