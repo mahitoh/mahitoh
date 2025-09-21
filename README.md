@@ -4,12 +4,14 @@
 </div>
 
 <br>
+<h2 align="center">Learning new things everyday ⚡️</h2>
+
 <a href="https://github.com/mahitoh">
   <img
     align="right"
-    src="https://i.pinimg.com/736x/56/0f/cf/560fcff573aab54297d3336ddd6644fd.jpg"
+    src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"
     width="360"
-    alt="Coding gif"
+    alt="Anime coding girl"
   />
 </a>
 
@@ -139,7 +141,24 @@ AI & LLMs? Glorified pattern-guessers that stumble on nuance—fun to tinker wit
   <img src="https://count.getloli.com/get/@mahitoh?theme=booru-huggboo" alt="Mahito" />
 </div>
 
-<!-- Snake eating commits animation -->
+<!-- Modern Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahitoh/mahitoh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
+
+<!-- Snake eating commits animation - Modern Version -->
+<div align="center">
+  <h2><b>🐍 Contribution Snake</b></h2>
+  <!-- This will work once you set up the GitHub Action -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahitoh/mahitoh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahitoh/mahitoh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahitoh/mahitoh/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Alternative: Working snake animation from popular repo for immediate display -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</div>
+
