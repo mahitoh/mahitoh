@@ -8,9 +8,8 @@
 
 <a href="https://github.com/mahitoh">
   <img
-    align="right"
-    src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"
-    width="360"
+    align="center"
+    src="https://i.pinimg.com/736x/69/7d/ff/697dffe4bc129b723dba406a187a6d46.jpg"
     alt="Anime coding girl"
   />
 </a>
@@ -148,7 +147,6 @@ AI & LLMs? Glorified pattern-guessers that stumble on nuance—fun to tinker wit
 
 <!-- Snake eating commits animation - Modern Version -->
 <div align="center">
-  <h2><b>🐍 Contribution Snake</b></h2>
   <!-- This will work once you set up the GitHub Action -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahitoh/mahitoh/output/github-contribution-grid-snake-dark.svg">
