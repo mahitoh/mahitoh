@@ -112,5 +112,7 @@ AI & LLMs? Glorified pattern-guessers that stumble on nuance—fun to tinker wit
 
 <div align="left">
   <h2><b>👀 Visitor Count</b></h2>
-  <img src="https://visitcount.itsvg.in/api?id=mahitoh&icon=0&color=0" alt="Mahito" />
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=mahitoh&label=Profile%20views&color=0e75b6&style=flat" alt="mahitoh" />
+  </p>
 </div>
