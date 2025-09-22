@@ -151,8 +151,4 @@ AI & LLMs? Glorified pattern-guessers that stumble on nuance—fun to tinker wit
   </picture>
 </div>
 
-<!-- Alternative: Working snake animation from popular repo for immediate display -->
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
 
